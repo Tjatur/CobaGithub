@@ -2,9 +2,10 @@ Slack FAQ
 =============
 
 Can I belong to more than one Slack team?
-You can belong to as many teams on Slack as you'd like. Since accounts are always at the "team level" (and not with Slack directly), you will have a separate account for each team. However, you can be signed in to more than one at a time, can have several open simultaneously, and can switch between them quickly.
+You can belong to as many teams on Slack as you'd like. Accounts are always at the "team level" (and not with Slack directly), you will have a separate account for each team. However, you can be signed in to more than one at a time, can have several open simultaneously, and can switch between them quickly.
 
-Because each account is totally independent, you can use the same email address for more than one team. You can also sign out of one team (or change your email address, or password, or even deactivate your account on a team completely) without it affecting your account on other teams.
+Because each account is totally independent, you can use the same email address for more than one team. You can also sign out of one team (or change your email address, or password, or even deactivate your account on a team completely) without it affecting your account on other teams. 
+Horeeee....
 
 --------------
 
